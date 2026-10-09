@@ -1,12 +1,12 @@
 Package: 1708
-Version: 1.0.2
+Version: 1.0.3
 Architecture: aarch64
 Maintainer: Asim Nawaz
 Description: 1708 Number Challenge Game
-Filename: dists/termux/extras/binary-aarch64/1708_1.0.2_aarch64.deb
-Size: 5964
-MD5Sum: 59d3239a46c073942c99c881ef1b205f
-SHA1: c706c76bf9ac729707771d4b027fefe06761bf2b
-SHA256: 6c6faa5f7a64a7f36dfbc55d2ac7fdda56ce9f199eb26c4d724a71ee8d375828
-SHA512: cbd0a62d5b4bd38167e20f41a761551928e0d7dcc4e6eee33d5b7cad850d60c88b643cb5c6938a6096537349a9ed9ccd06ccb16c283a59eef8c6d8c15830b19c
+Filename: dists/termux/extras/binary-aarch64/1708_1.0.3_aarch64.deb
+Size: 5992
+MD5Sum: dbe7a0db93bd947a8e6014a08ab5522b
+SHA1: 5baa8c82dd0839f1b488ea67633a9ac8809b851d
+SHA256: 7c8a6c875baee8cd8e47c84ed4babb50b5128dd07d00b0137791badef5924fd2
+SHA512: 7d3ab51d7e2faf51a05b7219eaa2e821939758ae0f73f7ec92732d3b877584f71494dacee9910e785e7ea067a2050e8ba622166b4d171474fe90694bfdb876c3
 
