@@ -1,0 +1,12 @@
+Package: 1708
+Version: 1.0.4
+Architecture: arm
+Maintainer: Asim Nawaz
+Description: 1708 number puzzle game
+Filename: dists/termux/extras/binary-arm/1708_1.0.4_arm.deb
+Size: 6704
+MD5Sum: 1aba82aafcf0c7d9843ff253312f9594
+SHA1: 6462ba3b052d1d65e9c16aea51567fad8bd1001a
+SHA256: 77d8ec8c480e9dd8a952b1718c1a07275a407198b1d336b42e7f9ca9a9bf94b8
+SHA512: 2bf93190ce7522178a8696debb1617c5be46a9a13b49383c8e86885fdf65a8786fdc30e846d89815a9775f03385fac4e006525bf65f9217e997a8faa90e62c96
+
